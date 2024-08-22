@@ -35,6 +35,14 @@ body{
     margin-top: 40px;
 }
 
+.logo{
+    transition: 0.3s;
+}
+
+.logo:hover{
+    transform: scale(0.9);
+}
+
 .main_contenido_encriptador{
     flex: 1;
     height: 90%;
