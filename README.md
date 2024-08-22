@@ -29,11 +29,7 @@ inserción del texto que será encriptado o desencriptado, y el usuario debe pod
 
 <h2>Vistas del proyecto</h2>
 
-
-
-https://s6.ezgif.com/tmp/ezgif-6-d46b8faec1.gif
-
-
+![gifdemiproyecto gif-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b8db4986-82aa-4868-854b-124b37324225)
 
 ![image](https://github.com/user-attachments/assets/eb064676-601a-4cb4-a90a-87e73e9d9654)
 ![image](https://github.com/user-attachments/assets/7ae5e8d1-b81c-44d3-9879-f34382c13fa1)
