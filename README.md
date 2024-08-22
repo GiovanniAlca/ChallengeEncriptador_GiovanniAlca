@@ -29,10 +29,10 @@ inserción del texto que será encriptado o desencriptado, y el usuario debe pod
 
 <h2>Vistas del proyecto</h2>
 
-![image](https://github.com/user-attachments/assets/870f32b8-fbcb-4b74-9962-9761200c7216) 
-![image](https://github.com/user-attachments/assets/c113a3e7-a29c-4fbb-9309-2a8c1751908b)
-![image](https://github.com/user-attachments/assets/2dfebd2e-e208-4486-bb26-d302d50ae122)
-![image](https://github.com/user-attachments/assets/8acee9c6-1d1f-442d-874a-f98d487e4af6)
+
+
+https://github.com/user-attachments/assets/a57f6801-1a8e-46a9-8452-bcf29808f62a
+
 
 ![image](https://github.com/user-attachments/assets/eb064676-601a-4cb4-a90a-87e73e9d9654)
 ![image](https://github.com/user-attachments/assets/7ae5e8d1-b81c-44d3-9879-f34382c13fa1)
