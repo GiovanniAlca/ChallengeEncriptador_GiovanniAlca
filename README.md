@@ -31,7 +31,8 @@ inserción del texto que será encriptado o desencriptado, y el usuario debe pod
 
 
 
-https://github.com/user-attachments/assets/a57f6801-1a8e-46a9-8452-bcf29808f62a
+![image](https://github.com/user-attachments/assets/4acdf461-f7ef-4cbc-b5ca-28ace63723ba)
+
 
 
 ![image](https://github.com/user-attachments/assets/eb064676-601a-4cb4-a90a-87e73e9d9654)
