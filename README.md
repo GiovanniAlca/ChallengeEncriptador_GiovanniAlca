@@ -31,7 +31,7 @@ inserción del texto que será encriptado o desencriptado, y el usuario debe pod
 
 
 
-![image](https://github.com/user-attachments/assets/4acdf461-f7ef-4cbc-b5ca-28ace63723ba)
+https://s6.ezgif.com/tmp/ezgif-6-d46b8faec1.gif
 
 
 
